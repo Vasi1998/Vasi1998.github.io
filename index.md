@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[EuroCulture IP Reader](https://www.euroculturemaster.eu/ip-reader-2025).
 
 There should be whitespace between paragraphs.
 
