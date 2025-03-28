@@ -1,5 +1,5 @@
-title: Test Title
-description: This is a test web.
-show_downloads: true
+title: EuroCinema
+description: This is the official website for Euroculture IP Program 2025 Movie Night!
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
